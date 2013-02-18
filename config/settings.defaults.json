@@ -1,0 +1,8 @@
+{ 
+  "production": {
+    "port": 5001
+  },
+  "defaults": {
+    "port": 3000
+  }
+}

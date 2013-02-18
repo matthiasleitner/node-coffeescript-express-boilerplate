@@ -1,0 +1,20 @@
+{
+  "name": "node_app",
+  "version": "0.0.1",
+  "main": "app.js",
+  "repository": "",
+  "author": "",
+  "license": "MIT",
+  "dependencies" :
+    {
+      "coffee-script"    : "*",
+      "cookie"           : "*",
+      "express"          : "*",
+      "inflection"       : "*",
+      "jade"             : "*",
+      "nconf"            : "*",
+      "pkginfo"          : "*",
+      "underscore"       : "*",
+      "underscore.string": "*"
+    }
+}
