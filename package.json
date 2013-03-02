@@ -15,9 +15,6 @@
       "nconf"            : "*",
       "pkginfo"          : "*",
       "underscore"       : "*",
-      "underscore.string": "*",
-      "node-pusher"      : "*",
-      "paymill-node"      : "*",
-      "request" : "*"
+      "underscore.string": "*"
     }
 }
