@@ -1,15 +1,18 @@
 doctype 5
 html
   head
-    title=title
+    title="hallo"
     link(rel='stylesheet', href='/css/bootstrap.min.css')
-    link(rel='stylesheet', href='/css/bootstrap-responsive.min.css')
     link(rel='stylesheet', href='/css/font-awesome.css')
     link(rel='stylesheet', href='/css/style.css')
+    link(rel='stylesheet', href='http://twitter.github.com/bootstrap/assets/css/bootstrap-responsive.css')
   body
     block content
     block scripts
       script(src='//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js')
       script(src='/js/bootstrap.min.js')
+      script(src='http://js.pusher.com/1.12/pusher.min.js', type='text/javascript')
+      script(src="https://bridge.paymill.com/", type='text/javascript')
       script(src='/js/script.js')
+
 
